@@ -1,4 +1,4 @@
-# Milestone-7: Imgur
+# Imgur
 
 ## Learning Competencies
 
